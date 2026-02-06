@@ -13,7 +13,8 @@ This project focuses on creating interactive and insightful dashboards using Mic
 - Clean and professional visualizations
 
 ## 📷 Dashboard Preview
-(Screenshots will be added)
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 213424" src="https://github.com/user-attachments/assets/c37c3f7b-32ca-4470-b218-a3dc6b2fb81f" />
+
 
 ## 👩‍💻 Created By
 Vyshnavi
